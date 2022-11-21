@@ -1,7 +1,6 @@
 # Wesley Souza
-## Hello, Devs!! <img alt="gif dog" src="https://slackmojis.com/emojis/3643-cool-doge/" width="30"/>
+## Hello, Devs!! 
 
-<img src="https://badges.pufler.dev/visits/Mitsu325/Mitsu325" alt="Visitors badge"/>
 
 
 -🎮 Gamer 
